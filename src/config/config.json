@@ -2,7 +2,7 @@
   "site": {
     "title": "Bookworm Light Astro | Blog Template",
     "base_url": "https://renetet.github.io",
-    "base_path": "/astro/",
+    "base_path": "astro",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
