@@ -2,71 +2,71 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/astro/"
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/astro/about"
     },
     {
       "name": "Research projects",
-      "url": "/research-projects",
+      "url": "/astro/research-projects",
       "hasChildren": true,
       "children": [
         {
           "name": "Sub page rp 1",
-          "url": "/research-projects/sub-page-rp-1"
+          "url": "/astro/research-projects/sub-page-rp-1"
         },
         {
           "name": "Sub page rp 2",
-          "url": "/research-projects/sub-page-rp-2"
+          "url": "/astro/research-projects/sub-page-rp-2"
         }
       ]  
     },
     {
       "name": "Teaching courses",
-      "url": "/teaching-courses",
+      "url": "/astro/teaching-courses",
       "hasChildren": true,
       "children": [
         {
           "name": "Sub page tc 1",
-          "url": "/teaching-courses/sub-page-tc-1"
+          "url": "/astro/teaching-courses/sub-page-tc-1"
         },
         {
           "name": "Sub page tc 2",
-          "url": "/teaching-courses/sub-page-tc-2"
+          "url": "/astro/teaching-courses/sub-page-tc-2"
         }
       ]  
     },
     {
       "name": "Interpreting and Translation",
-      "url": "/interpreting-and-translation"
+      "url": "/astro/interpreting-and-translation"
     },
     {
       "name": "Publications",
-      "url": "/publications"
+      "url": "/astro/publications"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/astro/contact"
     }
   ],
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "/astro/about"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/astro/contact"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/astro/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/astro/privacy-policy"
     }
   ]
 }

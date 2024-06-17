@@ -4,8 +4,8 @@
     "base_url": "https://renetet.github.io",
     "base_path": "astro",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/astro/images/favicon.png",
+    "logo": "/astro/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
