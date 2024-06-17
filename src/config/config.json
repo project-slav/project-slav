@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Light Astro | Blog Template",
     "base_url": "https://renetet.github.io",
     "base_path": "astro",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/astro/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Light"
   },
 
   "settings": {
@@ -17,19 +17,19 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Astro",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Light Astro Blog Template"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 a theme by [Astro](https://astro.com)"
   },
 
   "contactinfo": {
     "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
+    "email": "info@astro.org",
     "phone": "+800 567 1234"
   }
 }
