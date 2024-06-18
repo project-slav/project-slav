@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Light Astro | Blog Template",
+    "title": "Project SLAV",
     "base_url": "https://project-slav.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -17,19 +17,17 @@
   },
 
   "metadata": {
-    "meta_author": "Astro",
+    "meta_author": "Sanja Miketić Subotić",
     "meta_image": "/og-image.png",
-    "meta_description": "Light Astro Blog Template"
+    "meta_description": "Language maintenance and shift among the Serbian community in Vienna, Austria"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Astro](https://astro.com)"
+    "copyright": "Copyright © 2024"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@astro.org",
-    "phone": "+800 567 1234"
+    "email": "sanja.miketic@pr.ac.rs"
   }
 }
