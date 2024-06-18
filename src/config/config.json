@@ -1,11 +1,11 @@
 {
   "site": {
     "title": "Light Astro | Blog Template",
-    "base_url": "https://renetet.github.io",
-    "base_path": "astro",
+    "base_url": "https://project-slav.com",
+    "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/astro/images/favicon.png",
-    "logo": "/astro/images/logo.png",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Light"
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Astro",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/og-image.png",
     "meta_description": "Light Astro Blog Template"
   },
 
