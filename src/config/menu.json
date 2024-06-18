@@ -2,67 +2,67 @@
   "main": [
     {
       "name": "Home",
-      "url": "/astro/"
+      "url": "/"
     },
     {
       "name": "About",
-      "url": "/astro/about"
+      "url": "/about"
     },
     {
       "name": "Research projects",
-      "url": "/astro/research-projects",
+      "url": "/research-projects",
       "hasChildren": true,
       "children": [
         {
           "name": "Sub page rp 1",
-          "url": "/astro/research-projects/sub-page-rp-1"
+          "url": "/research-projects/sub-page-rp-1"
         },
         {
           "name": "Sub page rp 2",
-          "url": "/astro/research-projects/sub-page-rp-2"
+          "url": "/research-projects/sub-page-rp-2"
         }
       ]  
     },
     {
       "name": "Teaching courses",
-      "url": "/astro/teaching-courses",
+      "url": "/teaching-courses",
       "hasChildren": true,
       "children": [
         {
           "name": "Sub page tc 1",
-          "url": "/astro/teaching-courses/sub-page-tc-1"
+          "url": "/teaching-courses/sub-page-tc-1"
         },
         {
           "name": "Sub page tc 2",
-          "url": "/astro/teaching-courses/sub-page-tc-2"
+          "url": "/teaching-courses/sub-page-tc-2"
         }
       ]  
     },
     {
       "name": "Interpreting and Translation",
-      "url": "/astro/interpreting-and-translation"
+      "url": "/interpreting-and-translation"
     },
     {
       "name": "Publications",
-      "url": "/astro/publications"
+      "url": "/publications"
     },
     {
       "name": "Contact",
-      "url": "/astro/contact"
+      "url": "/contact"
     }
   ],
   "footer": [
     {
       "name": "About",
-      "url": "/astro/about"
+      "url": "/about"
     },
     {
       "name": "Contact",
-      "url": "/astro/contact"
+      "url": "/contact"
     },
     {
       "name": "Privacy Policy",
-      "url": "/astro/privacy-policy"
+      "url": "/privacy-policy"
     }
   ]
 }
