@@ -14,12 +14,24 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Sub page rp 1",
-          "url": "/research-projects/sub-page-rp-1"
+          "name": "audio",
+          "url": "/multimedia/audio"
         },
         {
-          "name": "Sub page rp 2",
-          "url": "/research-projects/sub-page-rp-2"
+          "name": "transcripts",
+          "url": "/multimedia/transcripts"
+        },
+        {
+          "name": "video",
+          "url": "/multimedia/video"
+        },
+        {
+          "name": "photo",
+          "url": "/multimedia/photo"
+        },
+        {
+          "name": "presentations",
+          "url": "/multimedia/presentations"
         }
       ]  
     },
@@ -29,12 +41,32 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Sub page tc 1",
-          "url": "/teaching-courses/sub-page-tc-1"
+          "name": "questionnaire",
+          "url": "/for-researchers/questionnaire"
         },
         {
-          "name": "Sub page tc 2",
-          "url": "/teaching-courses/sub-page-tc-2"
+          "name": "references",
+          "url": "/for-researchers/references"
+        },
+        {
+          "name": "methodology",
+          "url": "/for-researchers/methodology"
+        },
+        {
+          "name": "legal-disclaimer",
+          "url": "/for-researchers/legal-disclaimer"
+        },
+        {
+          "name": "project-overview",
+          "url": "/for-researchers/project-overview"
+        },
+        {
+          "name": "useful-links",
+          "url": "/for-researchers/useful-links"
+        },
+        {
+          "name": "how-to-cite",
+          "url": "/for-researchers/how-to-cite"
         }
       ]  
     },
