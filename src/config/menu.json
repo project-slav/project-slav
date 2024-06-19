@@ -9,8 +9,8 @@
       "url": "/about"
     },
     {
-      "name": "Research projects",
-      "url": "/research-projects",
+      "name": "Multimedia",
+      "url": "/multimedia",
       "hasChildren": true,
       "children": [
         {
@@ -24,8 +24,8 @@
       ]  
     },
     {
-      "name": "Teaching courses",
-      "url": "/teaching-courses",
+      "name": "For researchers",
+      "url": "/for-researchers",
       "hasChildren": true,
       "children": [
         {
@@ -39,12 +39,12 @@
       ]  
     },
     {
-      "name": "Interpreting and Translation",
-      "url": "/interpreting-and-translation"
-    },
-    {
       "name": "Studies and findings",
       "url": "/studies-and-findings"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
     },
     {
       "name": "Contact",
@@ -59,10 +59,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
   ]
 }
