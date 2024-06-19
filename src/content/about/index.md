@@ -5,7 +5,7 @@ image: "/astro/images/author.png"
 draft: false
 
 what_i_do:
-  title: "The phenomenon of first language attrition is a fascinating aspect of linguistic development that affects many people worldwide. Here, we aim to serve three main audiences:"
+  title: "The phenomenon of first language maintenance is a fascinating aspect of linguistic development that affects many people worldwide. Here, we aim to serve three main audiences:"
   items:
   - title: "Community"
     description: "Whether you are an immigrant, a family member, or simply someone interested in the dynamics of language maintenance and shift, our goal is to offer clear, insightful, and engaging content that helps you understand the complexities of maintaining a native language in a new cultural and linguistic environment."
