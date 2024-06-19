@@ -14,23 +14,23 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "audio",
+          "name": "Audio",
           "url": "/multimedia/audio"
         },
         {
-          "name": "transcripts",
+          "name": "Transcripts",
           "url": "/multimedia/transcripts"
         },
         {
-          "name": "video",
+          "name": "Video",
           "url": "/multimedia/video"
         },
         {
-          "name": "photo",
+          "name": "Photo",
           "url": "/multimedia/photo"
         },
         {
-          "name": "presentations",
+          "name": "Presentations",
           "url": "/multimedia/presentations"
         }
       ]  
@@ -41,31 +41,31 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "questionnaire",
+          "name": "Questionnaire",
           "url": "/for-researchers/questionnaire"
         },
         {
-          "name": "references",
+          "name": "References",
           "url": "/for-researchers/references"
         },
         {
-          "name": "methodology",
+          "name": "Methodology",
           "url": "/for-researchers/methodology"
         },
         {
-          "name": "legal-disclaimer",
+          "name": "Legal disclaimer",
           "url": "/for-researchers/legal-disclaimer"
         },
         {
-          "name": "project-overview",
+          "name": "Project overview",
           "url": "/for-researchers/project-overview"
         },
         {
-          "name": "useful-links",
+          "name": "Useful links",
           "url": "/for-researchers/useful-links"
         },
         {
-          "name": "how-to-cite",
+          "name": "How to cite",
           "url": "/for-researchers/how-to-cite"
         }
       ]  
