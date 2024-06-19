@@ -1,6 +1,6 @@
 ---
 title: "Studies and findings"
-meta_title: "Publications"
+meta_title: "Studies and findings"
 image: "/images/author.png"
 draft: false
 
