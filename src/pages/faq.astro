@@ -12,7 +12,7 @@ const { Content } = await entry.render();
     <div class="container">
       <div>
         <div>
-          <h1 class="mb-4" set:html={markdownify(entry.data.title)} />         
+          <h2 class="mb-4" set:html={markdownify(entry.data.title)} />         
           <Content />
         </div>
       </div>
