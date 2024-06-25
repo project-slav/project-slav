@@ -2,7 +2,7 @@
 title: "The Importance of Preserving Your Heritage Language"
 description: "The Importance of Preserving Your Heritage Language"
 date: 2022-06-01T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/02.png"
 categories: ["languages"]
 authors: ["Sanja Miketic Subotic"]
 tags: ["heritage language", "languages", "language maintenance", "language shift", "bilingualism]
