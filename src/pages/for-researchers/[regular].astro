@@ -1,0 +1,36 @@
+---
+import Base from "@/layouts/Base.astro";
+import Default from "@/layouts/Default.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import type { TPost } from "@/types";
+
+
+export async function getStaticPaths() {
+  const pages = await getSinglePage("for-researchers");
+  const allPages = [...pages];
+
+  const paths = allPages.map((page: any) => ({
+    params: {
+      regular: page.slug,
+    },
+    props: { page },
+  }));
+  return paths;
+}
+
+const { page } = Astro.props;
+const { title, meta_title, description, image } = page.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  {
+(
+      <Default data={page} />
+    )
+  }
+</Base>
