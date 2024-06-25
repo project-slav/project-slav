@@ -11,6 +11,8 @@ draft: false
 
 #### In English- quantitative
 
+[In Serbian - qualitative](/docs/Pitanja.pdf)
+
 #### In Serbian - qualitative
 
 #### In German- qualitative
