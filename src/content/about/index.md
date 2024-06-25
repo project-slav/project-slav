@@ -1,7 +1,7 @@
 ---
 title: "Project SLAV: Serbian LAnguage in Vienna"
 meta_title: "About"
-image: "/astro/images/author.png"
+image: "/images/vuk_citat.png"
 draft: false
 
 what_i_do:
