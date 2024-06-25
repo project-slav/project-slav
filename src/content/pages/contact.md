@@ -1,6 +1,6 @@
 ---
-title: "Frequently Asked Questions"
-meta_title: "Frequently Asked Questions"
+title: "Contact"
+meta_title: "Contact"
 draft: false
 ---
 

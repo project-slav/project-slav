@@ -91,6 +91,10 @@
     {
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "name": "Impressum",
+      "url": "/impressum"
     }
   ]
 }
