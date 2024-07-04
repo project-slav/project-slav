@@ -1,5 +1,5 @@
 ---
-title: "Project SLAV: 
+title: "Project SLAV:      
 Serbian LAnguage in Vienna"
 meta_title: "About"
 image: "/images/vuk_citat.png"
