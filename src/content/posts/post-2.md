@@ -2,7 +2,7 @@
 title: Official and less official fieldnotes by the researcher
 description: "Official and less official fieldnotes by the researcher"
 date: 2024-07-07 T05:00:00Z
-image: "/images/slika-za-post2.png"
+image:"project-slav/project-slav/public/images/slika-za-post2.png"
 categories: ["development"]
 authors: ["Sanja Miketic Subotic"]
 tags: ["researcher", "notes"]
