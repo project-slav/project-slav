@@ -19,7 +19,7 @@ what_i_do:
     description: "Our results can play a crucial role in informing and shaping more effective educational strategies, enhanced community support, and streamlining the process of cultural and linguistic integration."
 
 ---
-### Scan the QR code 
+#### Scan the QR code 
 and fill in the questionnaire! Or you can open the questionnaire in Google forms via this [link](https://forms.gle/SiBNk2KVJ2p2U8Kz8)
 
 
