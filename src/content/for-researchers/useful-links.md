@@ -29,3 +29,5 @@ https://www.oeaw.ac.at/vlach/
 
 [Both Not Half: How language shapes identity | Jassa Ahluwalia | TEDxChandigarh](https://www.youtube.com/watch?v=SP0bAQ8J6C0&t=727s&ab_channel=TEDxTalks)
 [Olga Kagan, Intercultural Competence of Heritage Language Learners](https://www.youtube.com/watch?v=qEgniK9k5ec&ab_channel=CERCLLUA)
+[Dr. Yeşim Sevinç - Let's talk about Heritage Language Anxiety!](https://www.youtube.com/watch?v=9R-QCdzT-rw&ab_channel=RaisingMultilingualsLIVE)
+[]()
