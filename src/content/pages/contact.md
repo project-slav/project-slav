@@ -4,7 +4,8 @@ meta_title: "Contact"
 draft: false
 ---
 
-#### E-mail: 
+#### Contact Us!
+We value your curiosity and feedback. If you have any questions about Serbian language maintenance and shift, bilingualism, learning the German language, or specific inquiries about the Serbian language in Vienna that are not covered on our site, please do not hesitate to reach out. 
 - sanja.miketic@pr.ac.rs
 - sanja.subotic@oeaw.ac.at
 

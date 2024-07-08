@@ -4,19 +4,13 @@ meta_title: "Studies and findings"
 image: "/images/author.png"
 draft: false
 
-what_i_do:
-  title: "What I Do"
-  items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
 ---
 
 
+Vienna hosts a vibrant Serbian community, making it an ideal case study for exploring how Serbian language is maintained or lost over time. This website delves into various aspects of Serbian language maintenance in Vienna, including:
+- : How the Serbian community in Vienna supports language preservation through cultural events, language schools, and social networks.
+- Individual Experiences: Personal stories and testimonials from Serbian immigrants about their challenges and successes in maintaining their native language.
+- Research Insights: Summaries and analyses of recent studies on Serbian language attrition and bilingualism in Vienna, offering valuable insights for both academic and general audiences.
+
+Our website is a work in progress, and we are committed to continually updating and expanding our content. As we gather more information and conduct further research, we aim to provide an ever-richer resource for understanding and supporting language maintenance and attrition.
 We are currently in the process of compiling and preparing our results and findings for publication. As our work is ongoing, we appreciate your patience. Please check back soon for updates on our website.
