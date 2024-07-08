@@ -29,16 +29,16 @@ Participants include self-declared members of the Serbian community in Vienna of
 The outcomes are expected to provide insights into the linguistic and cultural dynamics of the Serbian community in Vienna, aiming to bring its conclusions publicly, in open-access, to the observed community members, further researchers and decision makers.
 
 #### Which variables were observed?
-Age
-Gender
-Education level
-Mother tongue
-Parents’ and partner’s mother tongue
-Born and raised in Austria or not
-Immigrant generation (1st, 1.5, 2nd, 3rd, 4th) 
-The return to the homeland
-Urban / rural
-Religion
+- Age
+- Gender
+- Education level
+- Mother tongue
+- Parents’ and partner’s mother tongue
+- Born and raised in Austria or not
+- Immigrant generation (1st, 1.5, 2nd, 3rd, 4th) 
+- The return to the homeland
+- Urban / rural
+- Religion
 
 #### Why didn’t this study cover all BCS languages?
 Due to the term of the research stay not long enough to cover all the BCS languages, as in that case, we would need at least three times more participants, this study focused at one community, and not in its whole. Serbian Vlachs and Roma participants were also excluded from this research, as pilot study results suggested their attitudes may be specific. We warmly suggest these topics for further researchers and encourage them to use the same methodology, yet to adapt some questions due to the cultural specificities of the observed community.
