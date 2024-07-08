@@ -1,7 +1,8 @@
 ---
 title: "Studies and findings"
 meta_title: "Studies and findings"
-image: "/images/author.png"
+date: 2024-06-26T05:00:00Z
+image: "/images/posts/author.png"
 draft: false
 
 ---
