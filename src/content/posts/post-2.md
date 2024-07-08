@@ -3,7 +3,7 @@ title: Official and less official fieldnotes by the researcher
 description: "Official and less official fieldnotes by the researcher"
 date: 2024-06-26T05:00:00Z
 image: "/images/posts/03.png"
-categories: ["development"]
+categories: ["Fieldnotes"]
 authors: ["Sanja Miketic Subotic"]
 tags: ["researcher", "notes"]
 draft: false
