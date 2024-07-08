@@ -13,7 +13,7 @@ draft: false
 - Antonijević, Dragana (2012). Faktori izgradnje kulturnog identiteta radnih migranata iz Srbije. Etnološko-antropološke sveske 20 (9): 21-34 (Factors in building the cultural identity of labor migrants from Serbia)
 - Antonijević, Dragana (2013). Stranac ovde, stranac tamo. Antropološko istraživanje kulturnog identiteta gastarbajtera. Beograd: Srpski genealoški centar i Odeljenje za etnologiju i antropologiju Filozofskog fakulteta (A stranger here, a stranger there. Anthropological research on the cultural identity of gastarbaiters)
 - Antonijević, Dragana i Ljubica Milosavljević (2016a). „Treća opcija“: oscilirajuća kretanja gastarbajtera u penziji. Glasnik Etnografskog instituta SANU 64 (3): 509-526 ("The third option": oscillating movements of retired gastarbaiters)
-Antonijević, Dragana i Ljubica Milosavljević (2016b). Starost gastarbajtera: strategije životnih izbora migrantske populacije u penziji. Etnoantropološki problemi 11(1): 113-135 (The old age of gastarbaiters: life choice strategies of the retired migrant population)
+- Antonijević, Dragana i Ljubica Milosavljević (2016b). Starost gastarbajtera: strategije životnih izbora migrantske populacije u penziji. Etnoantropološki problemi 11(1): 113-135 (The old age of gastarbaiters: life choice strategies of the retired migrant population)
 - Baker, Colin (1992). Attitudes and Language. Clevedon: Multilingual Matters.
 - Banaji, Mahzarin and Larisa Heiphetz (2010). „Attitudes“. Handbook of Social Psychology, 2 (II), 348–388
 - Bohner, Gerd and Michaela Wanke (2002). Attitudes and Attitude Change. Hove: Psychology Press
@@ -40,7 +40,7 @@ Antonijević, Dragana i Ljubica Milosavljević (2016b). Starost gastarbajtera: s
 - Lenz, Alexandra (2018). The Special Research Programme: German in Austria: Variation – Contact – Perception. Sociolinguistica 32 (1), 269-278
 - Lenz, Alexandra, Barbara Soukup and Wolfgang Koppensteiner (eds.) (2022). Standard Languages in Germanic-Speaking Europe: Attitudes and Perception. Oslo: Novus
 - Lukić-Krstanović, Miroslava (1992). Srbi u Kanadi – život i simboli identiteta. Beograd: Etnografski institut SANU (Serbs in Canada - life and symbols of identity)
-M- arković, Predrag (2005). Gastarbeiters as the Factor of Modernization in Serbia. Istorija 20. veka 2: 145-162
+- Marković, Predrag (2005). Gastarbeiters as the Factor of Modernization in Serbia. Istorija 20. veka 2: 145-162
 - Matić, Svetlana i Marko Lopušina (2019). Srbi u Austriji. Novi Sad: Prometej (Serbs in Austria)
 - Medaković, Dejan (1998). Srbi u Beču. Novi Sad: Prometej (Serbs in Vienna)
 - Miketić, Sanja (2017). Stavovi prema jeziku kod studentske populacije u Republici Srbiji. Doktorska disertacija. Univerzitet u Beogradu, Filološki fakultet (Attitudes towards language among the student population in the Republic of Serbia)
